@@ -1,9 +1,2 @@
-﻿  chunk.cpp
-  debug.cpp
-  main.cpp
-  memory.cpp
-  value.cpp
-  vm.cpp
-  正在生成代码...
-e:\program\c++\clox\clox\debug.cpp(57): warning C4715: “disassembleInstruction”: 不是所有的控件路径都返回值
+﻿  scanner.cpp
   clox.vcxproj -> E:\program\C++\clox\Debug\clox.exe
