@@ -3,8 +3,9 @@
   main.c
   memory.c
   object.c
+  table.c
   value.c
   vm.c
   正在生成代码...
-e:\program\c++\clox\clox\value.c(55): warning C4715: “valuesEqual”: 不是所有的控件路径都返回值
+e:\program\c++\clox\clox\value.c(51): warning C4715: “valuesEqual”: 不是所有的控件路径都返回值
   clox.vcxproj -> E:\program\C++\clox\Debug\clox.exe
