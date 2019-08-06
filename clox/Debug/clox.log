@@ -1,11 +1,16 @@
 ﻿  chunk.c
   compiler.c
+  debug.c
   main.c
   memory.c
   object.c
+  scanner.c
   table.c
   value.c
   vm.c
+  正在编译...
   正在生成代码...
+e:\program\c++\clox\clox\debug.c(81): warning C4715: “disassembleInstruction”: 不是所有的控件路径都返回值
 e:\program\c++\clox\clox\value.c(51): warning C4715: “valuesEqual”: 不是所有的控件路径都返回值
   clox.vcxproj -> E:\program\C++\clox\Debug\clox.exe
+e:\program\c++\clox\clox\table.c(83): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
